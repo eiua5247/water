@@ -1,0 +1,16 @@
+{
+    "id": "watermod",
+    "name": "waterMod",
+    "version": "1.0",
+    "authors": [
+        "eiua5247 [sol]",
+        "Malamanabu [leaf]"
+    ],
+    "dependencies": [
+        {
+            "id": "polytopia",
+            "min": "2.10.0"
+        }
+    ],
+    "description": "water shit yes"
+}
