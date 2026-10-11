@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("waterMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80b276fdb479dc5467c482f8ec82b07d7e0bf244")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66a3169b37274f6e43e74e94c2dae580c2683b40")]
 [assembly: System.Reflection.AssemblyProductAttribute("waterMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("waterMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

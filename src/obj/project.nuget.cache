@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1XNzofCPxpA=",
+  "dgSpecHash": "9X8tH57xYDg=",
   "success": true,
-  "projectFilePath": "c:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\water\\src\\waterMod.csproj",
+  "projectFilePath": "C:\\Users\\ethan\\OneDrive\\Documents\\GitHub\\water\\src\\waterMod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ethan\\.nuget\\packages\\asmresolver\\6.0.0-beta.5\\asmresolver.6.0.0-beta.5.nupkg.sha512",
     "C:\\Users\\ethan\\.nuget\\packages\\asmresolver.dotnet\\6.0.0-beta.5\\asmresolver.dotnet.6.0.0-beta.5.nupkg.sha512",
